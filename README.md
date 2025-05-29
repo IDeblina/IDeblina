@@ -1,7 +1,7 @@
-- #👋 Hi there, I'm Deblina Maji
+👋 Hi there, I'm Deblina Maji
 
 🎓 B.Tech in CSE with specialization in AI & ML  
-🔬 Passionate about **Machine Learning**, **Data Science**, and **AI in Healthcare**  
+🔬 Passionate about **Machine Learning**, **Data Science**  
 🐍 Currently learning and working with **Python, Deep Learning, NLP, and Computer Vision**  
 💼 Recent Intern @ Business Brio | Working on ISL Recognition & ML projects  
 📈 Strong interest in building impactful AI/ML solutions  
